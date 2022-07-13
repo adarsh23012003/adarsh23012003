@@ -24,5 +24,5 @@
 
 <!-- - e-mail: deepak04122000maurya@gmail.com 
 - website: https://dlearner.in -->
-  git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
+  <!-- git config --global user.email "you@example.com"
+  git config --global user.name "Your Name" -->
