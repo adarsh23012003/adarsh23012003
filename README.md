@@ -33,7 +33,7 @@
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
-<p align="start">
+<p align="center">
 	<a href="mailto:adarshmaurya2303@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/adarsh23012003"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://wa.me/08382897799"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
@@ -93,5 +93,24 @@
   &emsp;
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
 </p>
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> My Projects
+<ul>
+<li>
+Creating on ReactJS and Tailwind
+<a href="https://tech-theme.vercel.app/" target="_blank">Tech Theme</a> 
+</li>
+<li>
+Creating on ReactJS and Tailwind
+<a href="https://www.shyama.org.in" target="_blank">E-Commerce</a> 
+</li><li>
+Creating on NextJS and Tailwind
+<a href="https://mahadev-decoration.vercel.app" target="_blank">Decoration Website</a> 
+</li><li>
+Creating on ReactJS and Tailwind
+<a href="https://firebase-realtor-clone-react.vercel.app/" target="_blank">Real State</a> 
+</li>
+</ul>
+
 
 ---
