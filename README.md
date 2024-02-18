@@ -8,18 +8,12 @@
 ### Currently I am working on these technologies -
 ### Frontend
 - **HTML, CSS and JavaScript**
-- **Vuejs, Nuxtjs, Tailwind,  Bootstrap, Vuetify**
+- **Reactjs Nextjs, Tailwind,  Bootstrap, Vuetify**
 
 ### Backend
 - **Nodejs, Express, MongoDB**
 
-### I'm Currently Learning
-
-- TypeScript
-- Docker
-- React
-
-
+  
 ### How to reach me -
 
 <!-- - e-mail: deepak04122000maurya@gmail.com 
