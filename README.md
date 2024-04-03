@@ -102,13 +102,16 @@ Creating on ReactJS and Tailwind
 </li>
 <li>
 Creating on ReactJS and Tailwind
-<a href="https://www.shyama.org.in" target="_blank">E-Commerce</a> 
+<a href="https://shyama.vercel.app/" target="_blank">E-Commerce</a> 
 </li><li>
 Creating on NextJS and Tailwind
 <a href="https://mahadev-decoration.vercel.app" target="_blank">Decoration Website</a> 
 </li><li>
 Creating on ReactJS and Tailwind
 <a href="https://firebase-realtor-clone-react.vercel.app/" target="_blank">Real State</a> 
+</li><li>
+ Creating on ReactJS and Tailwind
+<a href="https://doctor-appointment-ui.vercel.app/" target="_blank">Doctor Appointment App</a> 
 </li>
 </ul>
 
