@@ -28,7 +28,7 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1a48f0lmp0l0PjQTVBu-c91tyws82hroE/view?usp=sharing).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1942jaEdoa26GFmpiAscqx-TGN8EF83SC/view?usp=sharing).
 - :boom: You can visit [MY WEBSITE](https://adarsh-maurya.vercel.app/).
 <br>
 
