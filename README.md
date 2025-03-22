@@ -95,7 +95,10 @@
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> My Projects
-<ul>
+<ul><li>
+ Creating on Html and CSS
+<a href="https://sambhavana-jyotirlinga-temples.vercel.app/" target="_blank">Jyotirlinga Temples UI</a> 
+</li>
 <li>
 Creating on ReactJS and Tailwind
 <a href="https://tech-theme.vercel.app/" target="_blank">Tech Theme</a> 
@@ -111,7 +114,16 @@ Creating on ReactJS and Tailwind
 <a href="https://firebase-realtor-clone-react.vercel.app/" target="_blank">Real State</a> 
 </li><li>
  Creating on ReactJS and Tailwind
-<a href="https://doctor-appointment-ui.vercel.app/" target="_blank">Doctor Appointment App</a> 
+<a href="https://doctor-appointment-ui.vercel.app/" target="_blank">Doctor Appointment UI</a> 
+</li><li>
+ Creating on ReactJS and Tailwind
+<a href="https://ngo-frontend-tawny.vercel.app/" target="_blank">Ngo UI</a> 
+</li><li>
+ Creating on ReactJS and Tailwind
+<a href="https://simplyindiaholidays.vercel.app/" target="_blank">India Holidays UI</a> 
+</li><li>
+ Creating on ReactJS and Tailwind
+<a href="https://as-holi-theme.vercel.app/" target="_blank">Holi Theame UI</a> 
 </li>
 </ul>
 
